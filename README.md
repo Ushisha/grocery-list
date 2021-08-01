@@ -1,4 +1,4 @@
-# Simple Grocery list app
+# Grocery list
 
 ## function
 
